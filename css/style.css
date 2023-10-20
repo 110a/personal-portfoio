@@ -1,0 +1,20 @@
+body {
+    font-size: 16px;
+
+}
+
+p {
+    line-height: 32px;
+}
+
+.main-menu {
+    text-transform: capitalize;
+}
+
+header {
+    padding-top: 16px;
+}
+
+#main {
+    background: yellow;
+}

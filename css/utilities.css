@@ -1,0 +1,47 @@
+.flex {
+    display: flex;
+}
+
+.content-between {
+    justify-content: space-between
+}
+
+
+/* container */
+.container-wide {
+    /* padding: 0px 135px 0px 135px; */
+    padding: 0px 135px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.container-full {}
+
+/* #color {
+    background: red;
+} */
+
+
+
+/* colors */
+.bg-blue {
+    background-color: #28293E;
+}
+
+.color {
+    background-color: blue;
+}
+
+.bg-light {
+    background-color: #FDF0E9;
+}
+
+
+
+.white {
+    color: #ffffff;
+}
+
+.black {
+    color: #391400;
+}
